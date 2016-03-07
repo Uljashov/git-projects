@@ -8,7 +8,7 @@ public class HellowWorld {
 
         GoodbyeWorld.Gododbye();
 
-        System.out.println("My name is Ivan!");
+        System.out.println("My name is Ivan");
 
     }
 }
