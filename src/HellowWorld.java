@@ -7,7 +7,7 @@ public class HellowWorld {
         System.out.println("Hello my friends!");
 
         GoodbyeWorld.Gododbye();
-=======
+
         System.out.println("My name is Ivan");
 
     }
